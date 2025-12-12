@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm M Bharghav Kumar
-**A passionate Data Science Student || Web & Android Development || AWS Beginner**
+**A passionate Data Science Student || Web & Android Developer || AWS Beginner**
 
 Email Me 👉 ✉️ **mbharghav.kumar01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
