@@ -1,5 +1,11 @@
 # 💫 Hi 👋, I'm M Bharghav Kumar
-**A passionate Data Science Student || Web & Android Developer || AWS Beginner**
+**Data Science Student || Web & Android Developer || AWS Beginner**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding animation" />
+</div>
+
+I’m a passionate **3rd-year B.Tech Computer Science (Data Science)** student who enjoys building impactful tech solutions using **data, web, cloud, and AI technologies**. I love learning by building projects and collaborating with like-minded developers.
 
 Email Me 👉 ✉️ **mbharghav.kumar01@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
